@@ -1,0 +1,88 @@
+title {
+  align: center;
+  bbackground-color: dull gold;
+  border: blue, 20px, double;
+}
+
+body {
+  color: rgb(237, 238, 233);
+  background-color: rgb(70, 80, 94);
+  zoom: 250%;
+  margin-inline: 5%;
+}
+
+h1 b {
+  font-size: 5px;
+  line-height: 10px;
+  text-align: center;
+  color: rgb(33, 46, 46);
+  background: rgb(88, 145, 116);
+  font-style: roboto;
+  border: 1px solid #586781;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  zoom: 100%;
+}
+
+h2 {
+  font-size: 4px;
+  line-height: 10px;
+  text-align: center;
+  color: darkcyan;
+  background: mintcream;
+}
+
+div {
+  background-color: dimgrey;
+  border: double, bold, 10px;
+  border-radius: 15px;
+  text-align: center;
+  margin-bottom: +10px;
+  zoom: -50%;
+}
+
+h3 {
+  text-decoration-style: italic;
+  text-align: center;
+  font-size: 3px;
+  color: black;
+}
+
+h4 {
+  text-decoration-style: bold;
+  text-align: left;
+  font-size: 4px;
+  color: maroon;
+  margin: 10px;
+  background-color: skyblue;
+  border: double darkblue;
+  border-radius: 7px;
+}
+
+p {
+  background-color: brown;
+  font-size: 6px;
+  line-height: 2px;
+  color: #145;
+  text-align: justify;
+  margin-left: 5%;
+  margin-right: 20px;
+}
+
+pre {
+  background-color: brown;
+  font-size: 6px;
+  line-height: 10px;
+  border-radius: 10px;
+}
+
+pre b {
+  text-align: center;
+  text-decoration-style: italic;
+  font-size: 3px;
+  margin: 100%;
+  color: black;
+}
